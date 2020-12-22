@@ -1,10 +1,7 @@
 # p5.particle
-A simple Particle Library (pre-alpha)
+A simple Particle Library
 
-Hello All!
-
-I know, there is already a library for this, but I created this with a different approach.
-For anyone who does not know about what this is, this library is basically for creating explosion-like effects and using them in your p5 sketches to "juice" them up. This library was mainly made for those who are aiming to create games with p5, but with it's extreme simplicity, anyone can easily use it.
+This library is basically for creating explosion-like effects and using them in your p5 sketches to "juice" them up. This library was mainly made for those who are aiming to create games with p5, but with it's extreme simplicity, anyone can easily use it.
 
 General overview
 You have to have a JSON file (example provided) for every particle system you want to use in your sketch. This JSON file provides information about the look, and the behaviour of every particle as well as telling the system to emit it's particles in the given way. To put it simply, the thing that matters is the JSON file.
