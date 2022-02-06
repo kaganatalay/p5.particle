@@ -5,7 +5,7 @@ This library is basically for creating explosion-like effects and using them in 
 
 The source file is under `libraries/p5.particle.js`
 
-General overview
+## General overview
 You have to have a JSON file (example provided) for every particle system you want to use in your sketch. This JSON file provides information about the look, and the behaviour of every particle as well as telling the system to emit it's particles in the given way. To put it simply, the thing that matters is the JSON file.
 
 Steps for using this library
