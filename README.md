@@ -48,7 +48,7 @@ Follow the documentation carefully and you won't run into any major problems.
 If something unexpected happens, it's likely because of missing or wrong JSON values. Double-check the required fields, especially when enabling optional features like gravity or noise.
 
 If you still hit issues, feel free to tweak the code, it's simple on purpose and easy to modify.
-There’s no fancy error handling inside; it's built to stay lightweight and flexible for quick projects.
+There's no fancy error handling inside; it's built to stay lightweight and flexible for quick projects.
 
 <br>
 
@@ -138,9 +138,8 @@ There’s no fancy error handling inside; it's built to stay lightweight and fle
 
 ## 📄 JSON Template
 
-There’s a file called `template.json` in the root folder.  
-It contains a full particle config with **all** fields and **default values filled in**.
-If you need full control over all the properties, copy the file and modify it for your own particles.
+The `template.json` file inside the `example` directory contains a full particle config with **all** fields and **default values filled in**.
+When creating new systems, you can either copy the template to use as a base, or pick one from the `particles` directory and tweak it to your heart's desire.
 
 ---
 
