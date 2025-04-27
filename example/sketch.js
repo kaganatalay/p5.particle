@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(400, 400);
-  loadParticle("exp", "particle.json");
+  loadParticle("exp", "../template.json");
 }
 
 function draw() {
