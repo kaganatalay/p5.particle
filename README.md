@@ -47,7 +47,7 @@ This code is old, and is prone to bugs.
 Follow the documentation carefully and you won't run into any major problems.
 If something unexpected happens, it's likely because of missing or wrong JSON values. Double-check the required fields, especially when enabling optional features like gravity or noise.
 
-If you still hit issues, feel free to tweak the code — it's simple on purpose and easy to modify.
+If you still hit issues, feel free to tweak the code, it's simple on purpose and easy to modify.
 There’s no fancy error handling inside; it's built to stay lightweight and flexible for quick projects.
 
 <br>
