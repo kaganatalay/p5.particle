@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(400, 400);
-  loadParticle("exp", "../template.json");
+  loadParticle("template", "../template.json");
 }
 
 function draw() {
@@ -9,5 +9,5 @@ function draw() {
 }
 
 function mousePressed() {
-  startParticle("exp", mouseX, mouseY);
+  startParticle("template", mouseX, mouseY);
 }

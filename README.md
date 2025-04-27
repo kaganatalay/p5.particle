@@ -5,6 +5,10 @@ You can create fountains, bursts, and explosion-like effects using JSON configur
 
 <br>
 
+![particles_demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN4NDYxem43dGc2dDJubnltYmliczV5aGZvN2luMnJmYjdmNXRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2abDzvo0l3994KFwO/giphy.gif)
+
+<br>
+
 ## 🚀 How to Install
 
 Just include the script in your project after loading p5.js:
