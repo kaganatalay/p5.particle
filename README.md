@@ -144,5 +144,3 @@ When creating new systems, you can either copy the template to use as a base, or
 ---
 
 Built with 💓 towards p5.js and the processing foundation.
-
-Software development is a form of artistic expression for me, and I thank everyone in the community who make it as accessible as it is 💞
