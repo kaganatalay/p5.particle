@@ -138,7 +138,7 @@ There's no fancy error handling inside; it's built to stay lightweight and flexi
 
 ## 📄 JSON Template
 
-The `template.json` file inside the `example` directory contains a full particle config with **all** fields and **default values filled in**.
+The `template.json` file inside the `example` directory contains a full particle config with all fields and default values filled in.
 When creating new systems, you can either copy the template to use as a base, or pick one from the `particles` directory and tweak it to your heart's desire.
 
 ---
